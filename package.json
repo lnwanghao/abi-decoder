@@ -2,7 +2,7 @@
   "name": "abi-decoder",
   "version": "2.3.0",
   "description": "Nodejs and Javascript library for decoding data params and events from ethereum transactions\"",
-  "main": "index.js",
+  "main": "./dist/abi-decoder.js",
   "scripts": {
     "pretest": "eslint --ignore-path .eslintignore .",
     "test": "mocha test",
